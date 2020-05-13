@@ -1,0 +1,7 @@
+to use this easily as a exe you will need a python idle see my video how to download it from channel Tele Coder
+then you will have to extract that folder not the game (it will not work if you extract only the game and tried to play)
+extract that folder to the place you like 
+then you will have to install pygame to download it follow these steps:
+1 go to powershell and type pip if get any error then goto my channel Tele coder and solve it
+2 if you got then type "pip install --user pygame"
+3 then open that game and have fun!!!!
